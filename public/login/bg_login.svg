@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="359.999" viewBox="0 0 1440 359.999">
+    <defs>
+        <style>
+            .cls-1{fill:#fc6400;opacity:.05}
+        </style>
+    </defs>
+    <g id="bg-login" transform="translate(0 -.001)">
+        <path id="Path_2941" d="M-446 335.558V172H994v309.694C840.239 513.732 662.873 532 474 532c-392.662 0-735.63-78.955-920-196.442z" class="cls-1" transform="translate(446 -171.999)"/>
+        <path id="Path_2942" d="M-286 468.98V204h1329.513C908.886 366.063 497.106 484 10 484a2870.676 2870.676 0 0 1-296-15.02z" class="cls-1" transform="translate(286.001 -203.999)"/>
+    </g>
+</svg>
